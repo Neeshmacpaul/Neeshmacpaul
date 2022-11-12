@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neeshma C Paul
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning AWS services
+- 🌱 I’m currently learning AWS
 - 📫 If you need to get in touch, email me at itsmeneeshmacpaul@gmail.com.
 
 <!---
